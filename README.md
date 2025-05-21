@@ -14,12 +14,18 @@ GitHub: [github.com/Prathampreet2002/Mp-exercise-2](https://github.com/Prathampr
    - Replace default files with project files  
    - Ensure dependencies match `package.json`  
    - Click **Run**  
+<img width="323" alt="Screenshot 2025-05-21 at 1 47 02 AM" src="https://github.com/user-attachments/assets/474bbfe4-b2fb-4971-acec-bed48c5cc186" />
+<img width="335" alt="Screenshot 2025-05-21 at 1 48 04 AM" src="https://github.com/user-attachments/assets/44af0810-487f-4a30-9306-d6c78e63921e" />
+
 
  Features  
 - Create/Edit/Delete directories & messages  
 - Real-time search  
 - Adaptive grid layout  
-- Dark mode with neon accents  
+- Dark mode with neon accents
+
+
+
 
 📂 Key Files  
 App.js - Navigation setup  
